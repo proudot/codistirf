@@ -9,8 +9,7 @@ Codistirf detects diffraction limited object and measure the distance to the clo
 
 
 # Usage
-
-See script  
+See script  runFixedDualChannelAnalysis.m
 
 # Manuscripts
 Lakoduk, Ashley M., Philippe Roudot, Marcel Mettlen, Heather M. Grossman, Ping-Hung Chen, and Sandra L. Schmid. “Mutant P53 Triggers a Dynamin-1/APPL1 Endosome Feedback Loop That Regulates Β1 Integrin Recycling and Migration,” September 5, 2018. https://doi.org/10.1101/408815.
