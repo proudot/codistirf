@@ -18,5 +18,5 @@ Reis, Carlos R, Ping-Hung Chen, Saipraveen Srinivasan, François Aguet, Marcel M
 
 # Example
 
-![alt text](https://raw.githubusercontent.com/proudot/codistrf/master/img/illu.png)
+![alt text](https://raw.githubusercontent.com/proudot/codistirf/master/img/illu.png)
 
