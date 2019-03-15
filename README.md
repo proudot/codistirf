@@ -1,5 +1,5 @@
 # codistirf
-Codistirf detects diffraction limited object and measure the distance to the closest point of the membrane in multichannel imaging. Codistirf is based on a  library written by Francois Aguet [2].
+Codistirf detects diffraction limited object and measure the distance to the closest point of the membrane in multichannel imaging [1]. Codistirf is a high-troughput capable library on top of original contributions by Francois Aguet [2].
 
 * Multiple channel support (tested with four channels)
 * GraphPrysm export
