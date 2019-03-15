@@ -5,8 +5,7 @@ Codistirf detects diffraction limited object and measure the distance to the clo
 * GraphPrysm export
 * Automatic diffraction limited object and membrane detection 
 * GUI for membrane correction
-* Robust to high-throughput microscopy (100Gb/s)
-
+* Support parallel batch processing for high-throughput microscopy (~1Gb processed per second measured on Intel(R) Xeon(R)  E5-2680 v3 with 256Gb of RAM)
 
 # Usage
 See script  runFixedDualChannelAnalysis.m
